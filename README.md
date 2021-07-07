@@ -39,6 +39,6 @@ So there is a lot of interest in using programming for archaeological research.
 
 ## 5. Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/ch.ju97/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://wnrnrxla@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wnrnrxla@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch.ju97/)
 [![Github-blog Badge](https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white)](https://chantore.github.io/)
