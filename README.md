@@ -27,9 +27,9 @@ So there is a lot of interest in using programming for archaeological research.
 |      Type       |                  Organization                  |                    Contents                    |      Date       |
 | :-------------: | :--------------------------------------------: | :--------------------------------------------: | :-------------: |
 | **🎓** Education |             Dongguk Univ(Gyeongju)             |            Archaeology&Art-History             |    2016.3 ~     |
-|   ⛏Excavation   |    Gyeongju Wolseong<br/>(Gyeongju - NRICH)    |              Assistant Researcher              | 2017.1 ~ 2017.2 |
-|   ⛏Excavation   |    Gyeongju Wolseong<br>(Gyeongju - NRICH)     |              Assistant Researcher              | 2017.7 ~ 2017.8 |
-|   ⛏Excavation   | Gyeongju Guhwangdong<br>(Dongguk Univ) |               Student Researcher               |     2020.5      |
+|   ⛏Excavation   |    Gyeongju-NRICH<br>(Gyeongju Wolseong)    |              Assistant Researcher              | 2017.1 ~ 2017.2 |
+|   ⛏Excavation   |    Gyeongju-NRICH<br>(Gyeongju Wolseong)     |              Assistant Researcher              | 2017.7 ~ 2017.8 |
+|   ⛏Excavation   | Dongguk Univ<br>(Gyeongju Guhwangdong) |               Student Researcher               |     2020.5      |
 | **🎓** Education |              Seoul National Univ               | Archaeology&Art-History<br>(*Exchange Student) | 2020.9 ~ 2021.6 |
 
 
