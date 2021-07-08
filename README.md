@@ -35,7 +35,7 @@ So there is a lot of interest in using programming for archaeological research.
 
 ## 4. Research & Project
 
-* Building a Radio-Carbon date DB(RCDB)
+* Building a Korea Radio-Carbon date DB(RCDB)
 
 
 ## 5. Contact
