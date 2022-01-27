@@ -3,11 +3,17 @@
 
 ## Introduction
 
-Hello, my name is Chanhyeok<br>
-I'm a student at Dongguk Univ(Gyeongju)<br>
-My major is **Archaeology&Art History**,<br>
-So there is a lot of interest in using programming for archaeological research.
+**JU, Chanhyeok**<br>
+Majoring in archaeology<br>
+Seoul, Republic of Korea<br>
 
+## Education
+
+**Dongguk University, Gyeongju**<br>
+Department of Archaeology & Art history / B.A. / 2016.03 ~ 2022.02
+
+**Soongsil University, Seoul**<br>
+Department of History(Archaeology) / M.A. / 2022.03 ~
 
 ## Tech Stack
 
