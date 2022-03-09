@@ -20,7 +20,7 @@ Seoul, Republic of Korea<br>
 
 ## Education
 
-**Soongsil University, Gyeongju**<br>
+**Dongguk University, Gyeongju**<br>
 Department of Archaeology & Art history / B.A. / 2016.03 ~ 2022.02
 
 **Soongsil University, Seoul**<br>
