@@ -38,12 +38,6 @@ Department of History(Archaeology) / M.A. / 2022.03 ~
 <br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-## Research & Project
-
-* [Korea Radio-Carbon date DB(RCDB) Project](http://rcdb.kr/)
-
-
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://chanhyeok@soongsil.ac.kr)
