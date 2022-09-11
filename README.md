@@ -16,8 +16,8 @@ Department of History(Archaeology) / M.A. / 2022.03 ~
 
 ## Affiliation
 
-**The Korean Christian Museum at Soongsil University**<br>
-Research Assistant / 2022.09/01 ~ 
+**Soongsil University**<br>
+The Korean Christian Museum / Research Assistant / 2022.09/01 ~ 
 
 ## Tech Stack
 
