@@ -17,7 +17,7 @@ Seoul, Republic of Korea<br>
 ## Affiliation
 
 ###  Soongsil University, Seoul<br>
-&nbsp; The Korean Christian Museum / Research Assistant / 2022.09/01 ~ 
+&nbsp; The Korean Christian Museum / Research Assistant / 2022.09 ~ 
 
 ## Tech Stack
 
