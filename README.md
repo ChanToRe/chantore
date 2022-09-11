@@ -9,21 +9,15 @@ Seoul, Republic of Korea<br>
 ## Education
 
 ###  Dongguk University, Gyeongju<br>
-- Department of Archaeology & Art history
-- B.A.
-- 2016.03 ~ 2022.02
+&nbsp; Department of Archaeology & Art history / B.A. / 2016.03 ~ 2022.02
 
 ###  Soongsil University, Seoul<br>
-- Department of History(Archaeology)
-- M.A.
-- 2022.03 ~
+&nbsp; Department of History(Archaeology) / M.A. / 2022.03 ~
 
 ## Affiliation
 
 ###  Soongsil University, Seoul<br>
-- The Korean Christian Museum at Soongsil University
-- Research Assistant
-- 2022.09/01 ~ 
+&nbsp; The Korean Christian Museum / Research Assistant / 2022.09/01 ~ 
 
 ## Tech Stack
 
