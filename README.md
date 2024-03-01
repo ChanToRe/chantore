@@ -17,10 +17,10 @@ Seoul, Republic of Korea<br>
 ## Affiliation
 
 ###  The Korean Christian Museum at Soongsil University<br>
-&nbsp; Curatorial Affairs Office / Research Assistant / 2022.09 ~ 2024.02
+&nbsp; Research Assistant / 2022.09 ~ 2024.02
 
 ### Seoul National Research Institute of Cultural Heritage<br>
-&nbsp; Curatorial Affairs Office / Researcher / 2024.03 ~ 
+&nbsp; Researcher / 2024.03 ~ 
 
 ## Tech Stack
 
