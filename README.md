@@ -14,6 +14,9 @@ Seoul, Republic of Korea<br>
 ###  Soongsil University, Seoul<br>
 &nbsp; Department of History(Archaeology) / M.A. / 2022.03 ~ 2024.02
 
+###  Soongsil University, Seoul<br>
+&nbsp; Department of History(Archaeology) / Ph.D / 2025.03 ~ 
+
 ## Affiliation
 
 ###  The Korean Christian Museum at Soongsil University<br>
