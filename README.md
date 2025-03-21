@@ -1,7 +1,3 @@
-# ⛏Chanhyeok Ju⛏
-
-## Introduction
-
 **JU, Chanhyeok**<br>
 Majoring in archaeology<br>
 Seoul, Republic of Korea<br>
@@ -29,4 +25,4 @@ Seoul, Republic of Korea<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
