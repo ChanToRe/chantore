@@ -17,10 +17,13 @@ Seoul, Republic of Korea<br>
 
 ## Affiliation
 
-### Seoul National Research Institute of Cultural Heritage<br>
-&nbsp; Researcher / 2024.03 ~ 
+### Institute of Humanities, Soongsil University
+&nbsp; Researcher / 2026.11 ~ 
 
-###  The Korean Christian Museum at Soongsil University<br>
+### Seoul National Research Institute of Cultural Heritage<br>
+&nbsp; Researcher / 2024.03 ~ 2026.10
+
+###  The Korean Christian Museum, Soongsil University<br>
 &nbsp; Research Assistant / 2022.09 ~ 2024.02
 
 ## Tech Stack
